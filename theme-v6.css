@@ -1,0 +1,1 @@
+.logo{position:relative!important}.logo:after{content:"";position:absolute;left:0;right:0;bottom:0;height:36%;background:var(--bg);pointer-events:none}@media(max-width:700px){.logo:after{height:34%}}
